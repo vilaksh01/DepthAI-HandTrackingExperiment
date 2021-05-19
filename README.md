@@ -1,5 +1,5 @@
 # Control your system functionalities using OAK-D vision system and DepthAI realtime vision processing with Mediapipe AI models
-<img src="https://github.com/vilaksh01/DepthAI-LazyProjects/blob/main/Projects/OAK-D%20Hand%20Gesture%20Control/images/Screenshot%20from%202021-04-23%2021-31-36.png">
+<img src="https://github.com/vilaksh01/DepthAI-HandTrackingExperiment/blob/main/Images/Screenshot%20from%202021-04-23%2021-31-36.png?raw=true">
 
 ## Hand tracking and hand landmark detection to detect gestures
 
